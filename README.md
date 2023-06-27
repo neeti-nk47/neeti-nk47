@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Welcome to my GitHub profile! I'm Neeti, a developer passionate about Frontend Development. and I'm constantly exploring new and exciting areas in the world of software development.
+## Welcome to my GitHub profile! I'm Neeti, a passionate frontend developer. and I'm constantly exploring new and exciting areas in the world of software development.
 
 
 ## 💻 Tech Stack:
