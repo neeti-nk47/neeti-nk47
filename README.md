@@ -12,13 +12,13 @@ I'm open to collaboration on exciting projects and ideas. If you have something 
 
 ### 📫 How to reach me
 You can connect with me through:
-  Email: neeti.nk47@gmail.com
-  LinkedIn: https://www.linkedin.com/in/neetink47
+    Email: neeti.nk47@gmail.com
+    LinkedIn: https://www.linkedin.com/in/neetink47
 
 ### 💬 Ask me about
 If you have any questions or need assistance with the following topics, feel free to ask:
-  Frontend Development
-  React App
+    Frontend Development
+    React App
 
 ### ⚡ Fun fact
 Here's a fun fact about me or something interesting related to my work/personality.
